@@ -1,0 +1,8 @@
+https://www.edamam.com/
+
+name: BFdesigns
+email: ferenczbalazs85@gmail.com
+pass: 123456
+
+
+youtube: https://www.youtube.com/watch?v=U9T6YkEDkMo --  17:48-nel
